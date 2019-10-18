@@ -1,2 +1,3 @@
 # wavefocus-site
-WavFocus Site
+
+WaveFocus Site
